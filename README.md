@@ -1,4 +1,4 @@
-👋 #Hi, I’m Rabia.
+👋 **Hi, I’m Rabia.**
 
 👀 **I’m interested in software.**
 
