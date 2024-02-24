@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Rabia.
+![HelloWorldSeytonicGIF](https://github.com/Rabiacagli/Rabiacagli/assets/145583517/44d9675d-7b97-417b-af23-d6374eae9790)
+
+
+# 👋 I’m Rabia.
 
   👀 **I’m interested in software.**
 
@@ -11,7 +14,6 @@
 
 
 
-![HaxGIF](https://github.com/Rabiacagli/Rabiacagli/assets/145583517/f5e3b043-1845-4269-ab96-158579f12792)
 
 
 
