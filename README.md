@@ -1,5 +1,5 @@
-![HelloWorldSeytonicGIF](https://github.com/Rabiacagli/Rabiacagli/assets/145583517/44d9675d-7b97-417b-af23-d6374eae9790)
 
+![HelloWorldGIF](https://github.com/Rabiacagli/Rabiacagli/assets/145583517/9e00ecde-51c8-465d-a5c8-87d654fc6288)
 
 # 👋 I’m Rabia.
 
