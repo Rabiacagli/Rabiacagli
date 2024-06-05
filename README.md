@@ -50,7 +50,7 @@ my commitment to harmonious teamwork and continuous learning motivate me to achi
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rabiaacgl)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rabiacagli/)
 
-# 💫**Below you can find a few of the projects I have completed. ⬇️**
+## 💫**Below you can find a few of the projects I have completed. ⬇️**
 
 
 
